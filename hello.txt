@@ -1,4 +1,12 @@
 Hi adding a line here
 Adding a new line
+<<<<<<< HEAD
+=======
+
+
+
+
+new line in f1
+>>>>>>> f1
 
 .....
